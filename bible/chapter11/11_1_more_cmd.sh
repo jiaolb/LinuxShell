@@ -3,6 +3,5 @@
 echo test run more command.
 
 whoami
-date
-time
+date; time
 
