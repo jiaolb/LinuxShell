@@ -1,0 +1,6 @@
+1、程序使用Python写的，请安装Python3环境，并安装以下模块：
+pip3 install numpy
+pip3 install opencv-contrib-python
+pip3 install opencv_python
+
+2、程序调用的图片为绝对路径，请注意！
